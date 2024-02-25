@@ -38,7 +38,7 @@ public class App {
         }
         System.out.println();
 
-        test(5000);
+        test(7000);
     }  
 
     /**
